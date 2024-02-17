@@ -11,5 +11,6 @@ Hello! 👋 I'm Pranita Kute, a beginner passionate about learning and mastering
 ## Competitive Programming Profiles
 - Codeforces: [Pranitakute](https://codeforces.com/profile/Pranitakute)
 - Hackerrank: [Pranita Kute](https://www.hackerrank.com/profile/pranitakute11)
+- Codechef: [pranitakute](https://www.codechef.com/users/pranitakute11)
 
 Let's learn and grow together! Feel free to connect with me on any of the platforms above.
